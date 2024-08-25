@@ -1,2 +1,2 @@
 # explore-streamlit
-Understanding Streamlit Framework
+Understanding Streamlit Framework and internals
